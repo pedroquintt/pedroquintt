@@ -1,6 +1,6 @@
 # Pedro Quint
 
-**Dados para receita: RevOps, mídia paga e IA aplicada à operação.**
+**Data Analytics, DevOps, SQL e IA aplicada à operação.**
 
 Analista de dados com 5 anos em performance e growth. Hoje modelo em PostgreSQL a base que une CRM, mídia paga e financeiro de uma edtech, e construo os painéis e as análises que a diretoria usa para decidir. Antes, geri mídia paga de ponta a ponta (Google, Meta, TikTok, LinkedIn) para clientes de vários segmentos.
 
